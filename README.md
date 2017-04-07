@@ -1,6 +1,6 @@
 
 
-No of files in this repopsitory are 3.
+No of files in this repopsitory are Three.
 
 1.Readme
 2.Codebook
