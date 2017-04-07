@@ -1,12 +1,13 @@
-# Getting-and-Cleaning-Data
 
-# Creating a directory named data if it does not exist
 
-#Specifying file Url, download the file from web and put the zip file in the data folder.
+No of files in this repopsitory are 3.
 
-#Unzip the file
+1.Readme
+2.Codebook
+3.R code for analysis 
 
-#Get the list of the files.Unzipped files are kept in UCI HAR Dataset
+
+Manin code contains the following steps:
 
 #Read the files like activity,subject etc..
 #Merges the training and the test sets to create one data set
