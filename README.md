@@ -9,7 +9,7 @@ No of files in this repopsitory are 3.
 
 Main code contains the following steps:
 
-#Read the files like activity,subject etc..
+#Read the files 
 #Merges the training and the test sets to create one data set
 #Concatenate the data tables by rows
 
@@ -27,17 +27,14 @@ Main code contains the following steps:
 
 
 #Uses descriptive activity names to name the activities in the data set
+
 #Read descriptive activity names from “activity_labels.txt”
 
-
 #Facorize Variale activity in the data frame Data using descriptive activity names and check
-head(Data$activity,30)
 
 #Appropriately labels the data set with descriptive variable names
-#Replacing short forms with full names
 
-#Checking
-names(Data)
+#Replacing short forms with full names
 
 #Creates a second, independent tidy data set with the average of each variable for each activity and each subject
 
