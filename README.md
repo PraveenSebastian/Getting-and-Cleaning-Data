@@ -7,7 +7,7 @@ No of files in this repopsitory are 3.
 3.R code for analysis 
 
 
-Manin code contains the following steps:
+Main code contains the following steps:
 
 #Read the files like activity,subject etc..
 #Merges the training and the test sets to create one data set
