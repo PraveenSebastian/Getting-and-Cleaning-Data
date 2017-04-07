@@ -1,2 +1,51 @@
 # Getting-and-Cleaning-Data
-Code for getting a tidy data set from text file
+
+# Creating a directory named data if it does not exist
+
+#Specifying file Url, download the file from web and put the zip file in the data folder.
+
+#Unzip the file
+
+#Get the list of the files.Unzipped files are kept in UCI HAR Dataset
+
+#Read the files like activity,subject etc..
+#Merges the training and the test sets to create one data set
+#Concatenate the data tables by rows
+
+#Set names to variables
+
+#Extracts only the measurements on the mean and standard deviation for each measurement
+
+#Subset Name of Features by measurements on the mean and standard deviation
+
+
+#Subset the data frame Data by seleted names of Features
+
+
+#seeing the structures of the data frame Data
+
+
+#Uses descriptive activity names to name the activities in the data set
+#Read descriptive activity names from “activity_labels.txt”
+
+
+#Facorize Variale activity in the data frame Data using descriptive activity names and check
+head(Data$activity,30)
+
+#Appropriately labels the data set with descriptive variable names
+#Replacing short forms with full names
+
+#Checking
+names(Data)
+
+#Creates a second, independent tidy data set with the average of each variable for each activity and each subject
+
+
+
+
+
+
+
+
+
+
